@@ -13,3 +13,5 @@ zbxhistory.sh
 4. 出力ログ
 zbxhistory.plのログは/tmp/zbxhistory.logに出力する。
 10MB、2世代
+
+master
